@@ -2,4 +2,5 @@ resolusi bacod 2021:
 
 1. mempunyai role
 2. build website
-3. buat seminar/webinar
+3. rapat konsep bacod
+
